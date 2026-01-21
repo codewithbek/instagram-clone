@@ -1,25 +1,47 @@
-# instagram-clone
+# Instagram Clone
 
-A Flutter-based Instagram clone application.
+A Flutter-based Instagram clone application with modern UI and features.
 
 ## Features
 
-- User authentication
-- Feed with posts
-- Stories
-- Profile view
-- Search functionality
-- Reels
+- User authentication (login, signup, password recovery)
+- Feed with posts and interactive elements
+- Stories with visual indicators
+- Profile view with user posts and stats
+- Search functionality with grid view
+- Reels implementation
+- Dark/Light mode support
+- Multi-language support (English, Russian, Uzbek)
+
+## Tech Stack
+
+- Flutter for cross-platform development
+- Firebase for backend services
+- Clean Architecture pattern
+- Dependency Injection
+
+## Screenshots
+
+*Coming soon*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository
+2. Run `flutter pub get` to install dependencies
+3. Configure Firebase for your project
+4. Run the app with `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Project Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- `lib/core`: Core functionality, widgets, and utilities
+- `lib/features`: Feature modules (auth, home, profile, etc.)
+- `lib/constants`: App constants and resources
+- `assets`: Images, icons, and other static resources
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is for educational purposes only.
