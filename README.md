@@ -22,17 +22,14 @@ A Flutter-based Instagram clone application with modern UI and features.
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td><img src="https://github.com/codewithbek/instagram-clone/raw/main/screenshots/home_feed.jpg" alt="Home Feed" width="250"/></td>
-    <td><img src="https://github.com/codewithbek/instagram-clone/raw/main/screenshots/splash_screen.jpg" alt="Splash Screen" width="250"/></td>
-  </tr>
-</table>
+![Instagram Clone Screenshots](https://i.imgur.com/placeholder-image-link.png)
 
 The app features a sleek dark mode UI with:
 - Stories carousel at the top
 - Posts with engagement metrics
 - Instagram's iconic navigation
+
+*Note: To see the actual screenshots, you'll need to upload the images to your repository or use an image hosting service like Imgur and update the link above.*
 
 ## Getting Started
 
